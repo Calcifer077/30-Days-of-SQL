@@ -6,12 +6,12 @@ Welcome to Day 5 of the 30-Day SQL Challenge! Today, we will explore **aggregate
 
 ## Table of Contents 📚
 
-1. [What are Aggregate Functions?](#what-are-aggregate-functions)
-2. [Common Aggregate Functions](#common-aggregate-functions)
-3. [Using GROUP BY](#using-group-by)
-4. [Combining GROUP BY with Aggregate Functions](#combining-group-by-with-aggregate-functions)
-5. [Practice Exercises](#practice-exercises)
-6. [Summary](#summary)
+1. [What are Aggregate Functions?](#what-are-aggregate-functions-)
+2. [Common Aggregate Functions](#common-aggregate-functions-)
+3. [Using GROUP BY](#using-group-by-)
+4. [Combining GROUP BY with Aggregate Functions](#combining-group-by-with-aggregate-functions-)
+5. [Practice Exercises](#practice-exercises-)
+6. [Summary](#summary-)
 
 ---
 
@@ -21,7 +21,7 @@ Aggregate functions are used to perform calculations on a set of values, returni
 
 ---
 
-### Common Aggregate Functions 🛠️
+### Common Aggregate Functions 🛠
 
 | **Function**   | **Description**                            | **Example**                      |
 |----------------|--------------------------------------------|----------------------------------|
@@ -119,6 +119,6 @@ Tomorrow, we will explore the **HAVING clause** for filtering grouped data. Stay
 
 ---
 
-[Previous: Day 4 - Sorting Data with ORDER BY](./day4.md) 🔙  
-[Next: Day 6 - HAVING Clause](./day6.md) 🔜
+[Previous: Day 4 - Sorting Data with ORDER BY](../Day-4%20Sorting%20Data%20with%20ORDER%20BY/Day-4_Sorting_Data_with_ORDER_BY.md) 🔙  
+[Next: Day 6 - HAVING Clause](../Day-6%20The%20HAVING%20Clause/Day-6_The_HAVING_Clause.md) 🔜
 
