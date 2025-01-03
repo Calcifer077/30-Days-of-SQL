@@ -6,17 +6,17 @@ Welcome to Day 2 of the 30-Day SQL Challenge! Today, we'll cover the fundamental
 
 ## Table of Contents 📚
 
-1. [What is the CREATE Statement?](#what-is-the-create-statement)
-2. [Creating Your First Table](#creating-your-first-table)
-3. [What is the SELECT Statement?](#what-is-the-select-statement)
-4. [Basic Syntax of SELECT](#basic-syntax-of-select)
-5. [Using SELECT with Simple Queries](#using-select-with-simple-queries)
-6. [Practice Exercises](#practice-exercises)
-7. [Summary](#summary)
+1. [What is the CREATE Statement?](#what-is-the-create-statement-)
+2. [Creating Your First Table](#creating-your-first-table-)
+3. [What is the SELECT Statement?](#what-is-the-select-statement-)
+4. [Basic Syntax of SELECT](#basic-syntax-of-select-)
+5. [Using SELECT with Simple Queries](#using-select-with-simple-queries-)
+6. [Practice Exercises](#practice-exercises-)
+7. [Summary](#summary-)
 
 ---
 
-### What is the CREATE Statement? 🏗️
+### What is the CREATE Statement? 🏗
 
 The `CREATE` statement is used to define new database objects such as tables, views, indexes, or databases. For today, we’ll focus on creating tables.
 
@@ -56,7 +56,7 @@ CREATE TABLE students (
 
 The `SELECT` statement is the backbone of SQL queries. It allows you to retrieve data from one or more tables in a database. By specifying columns or using special symbols like `*`, you can determine exactly what data you want to retrieve.
 
-### Basic Syntax of SELECT 🛠️
+### Basic Syntax of SELECT 🛠
 
 ```sql
 SELECT column1, column2, ...
@@ -108,7 +108,7 @@ FROM employees;
 3. Write a `SELECT` query to retrieve only the `name` and `department` columns from the `employees` table.
 4. Use `SELECT` to retrieve all rows from your `students` table.
 
-### Summary 🏁
+## Summary 🏁
 
 Today, you learned about:
 
@@ -121,6 +121,6 @@ Tomorrow, we’ll dive deeper into **filtering data with the WHERE clause**. �
 
 ---
 
-[Previous: Day 1 - Introduction to SQL](./day1.md) 🔙\
-[Next: Day 3 - Filtering Data with WHERE](./day3.md) 🔜
+[Previous: Day 1 - Introduction to SQL](../README.md) 🔙\
+[Next: Day 3 - Filtering Data with WHERE](../Day-3%20Filtering%20Data%20with%20WHERE/Day-3_Filtering_Data_with_WHERE.md) 🔜
 
