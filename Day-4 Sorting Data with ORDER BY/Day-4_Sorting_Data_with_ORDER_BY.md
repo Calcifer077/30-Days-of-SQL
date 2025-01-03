@@ -6,17 +6,17 @@ Welcome to Day 4 of the 30-Day SQL Challenge! Today, we'll explore the `ORDER BY
 
 ## Table of Contents 📒
 
-1. [What is the ORDER BY Clause?](#what-is-the-order-by-clause)
-2. [Basic Syntax of ORDER BY](#basic-syntax-of-order-by)
-3. [Sorting in Ascending Order](#sorting-in-ascending-order)
-4. [Sorting in Descending Order](#sorting-in-descending-order)
-5. [Sorting by Multiple Columns](#sorting-by-multiple-columns)
-6. [Practice Exercises](#practice-exercises)
-7. [Summary](#summary)
+1. [What is the ORDER BY Clause?](#what-is-the-order-by-clause-)
+2. [Basic Syntax of ORDER BY](#basic-syntax-of-order-by-)
+3. [Sorting in Ascending Order](#sorting-in-ascending-order-)
+4. [Sorting in Descending Order](#sorting-in-descending-order-)
+5. [Sorting by Multiple Columns](#sorting-by-multiple-columns-)
+6. [Practice Exercises](#practice-exercises-)
+7. [Summary](#summary-)
 
 ---
 
-### What is the ORDER BY Clause? 🏛️
+### What is the ORDER BY Clause? 🏛
 
 The `ORDER BY` clause in SQL is used to sort the rows returned by a query based on one or more columns. By default, data is sorted in ascending order unless specified otherwise.
 
@@ -114,7 +114,7 @@ ORDER BY department ASC, age DESC;
 
 ---
 
-### Practice Exercises 🖋️
+### Practice Exercises 🖋
 
 1. Retrieve all rows from the `employees` table and sort them by `name` in ascending order.
 2. Sort the `employees` table by `department` in descending order.
@@ -135,6 +135,6 @@ Practice these concepts to solidify your understanding. Tomorrow, we'll dive int
 
 ---
 
-[Previous: Day 3 - Filtering Data with WHERE](./day3.md) 🔼\
-[Next: Day 5 - Aggregate Functions and GROUP BY](./day5.md) 🔽
+[Previous: Day 3 - Filtering Data with WHERE](../Day-3%20Filtering%20Data%20with%20WHERE/Day-3_Filtering_Data_with_WHERE.md) 🔼\
+[Next: Day 5 - Aggregate Functions and GROUP BY](../Day-5%20Aggregate%20Functions%20and%20GROUP%20BY/Day-5_Aggregate_Functions_and_GROUP_BY.md) 🔽
 
