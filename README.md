@@ -277,5 +277,4 @@ Today’s focus is understanding:
 
 You’ve just taken the first step in mastering SQL! Day 1 is all about building awareness and setting up your environment. Tomorrow, we’ll dive deeper into **Data Definition Language (DDL)**.
 
-
-Let me know if you’d like to customize this further!
+[Next: Day 2 - Filtering Data with WHERE](./Day-2%20Basic%20SELECT%20Statements/Day-2_Basic_SELECT_Statements.md) 🔜
