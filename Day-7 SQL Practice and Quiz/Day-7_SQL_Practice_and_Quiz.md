@@ -6,14 +6,14 @@ Welcome to Day 7 of the 30-Day SQL Challenge! Today, we’ll consolidate our lea
 
 ## Table of Contents 📚
 
-1. [Practice Problems](#practice-problems)
-2. [Quiz Questions](#quiz-questions)
-3. [Solutions](#solutions)
-4. [Next Steps](#next-steps)
+1. [Practice Problems](#practice-problems-)
+2. [Quiz Questions](#quiz-questions-)
+3. [Solutions](#solutions-)
+4. [Next Steps](#next-steps-)
 
 ---
 
-### Practice Problems 🏋️‍♂️
+### Practice Problems 🏋
 
 #### Problem 1: Total Sales by Region
 
@@ -121,7 +121,7 @@ HAVING total_amount > 400;
 
 ---
 
-### Solutions 🕵️‍♂️
+### Solutions 🕵
 
 #### Practice Problems
 
@@ -175,6 +175,6 @@ Great work today! Practice and quizzes help solidify your understanding. Tomorro
 
 ---
 
-[Previous: Day 6 - The HAVING Clause](./day6.md) 🔼  \
-[Next: Day 8 - Joins – Basics](./day8.md) 🔽
+[Previous: Day 6 - The HAVING Clause](../Day-6%20The%20HAVING%20Clause/Day-6_The_HAVING_Clause.md) 🔼  \
+[Next: Day 8 - Joins – Basics](../Day-8_Joins–Basics/Day-8_Joins–Basics.md) 🔽
 
