@@ -6,14 +6,14 @@ Welcome to Day 3 of the 30-Day SQL Challenge! Today, we'll focus on filtering da
 
 ## Table of Contents 📒
 
-1. [What is the WHERE Clause?](#what-is-the-where-clause)
-2. [Basic Syntax of WHERE](#basic-syntax-of-where)
-3. [Using WHERE with Comparison Operators](#using-where-with-comparison-operators)
-4. [Combining Conditions with AND, OR, NOT](#combining-conditions-with-and-or-not)
-5. [Using WHERE with Pattern Matching (LIKE)](#using-where-with-pattern-matching-like)
-6. [Filtering NULL Values](#filtering-null-values)
-7. [Practice Exercises](#practice-exercises)
-8. [Summary](#summary)
+1. [What is the WHERE Clause?](#what-is-the-where-clause-)
+2. [Basic Syntax of WHERE](#basic-syntax-of-where-)
+3. [Using WHERE with Comparison Operators](#using-where-with-comparison-operators-)
+4. [Combining Conditions with AND, OR, NOT](#combining-conditions-with-and-or-not-)
+5. [Using WHERE with Pattern Matching (LIKE)](#using-where-with-pattern-matching-like-)
+6. [Filtering NULL Values](#filtering-null-values-)
+7. [Practice Exercises](#practice-exercises-)
+8. [Summary](#summary-)
 
 ---
 
@@ -44,7 +44,7 @@ WHERE age >= 30;
 
 ---
 
-### Using WHERE with Comparison Operators ⚙️
+### Using WHERE with Comparison Operators ⚙
 
 SQL provides several comparison operators for filtering data:
 
@@ -68,7 +68,7 @@ WHERE department = 'IT';
 
 ---
 
-### Combining Conditions with AND, OR, NOT ⚖️
+### Combining Conditions with AND, OR, NOT ⚖
 
 You can combine multiple conditions using logical operators:
 
@@ -176,6 +176,6 @@ Tomorrow, we’ll explore **sorting data with the ORDER BY clause**. Stay tuned!
 
 ---
 
-[Previous: Day 2 - CREATE Statement and Basic SELECT](./day2.md) 🔼\
-[Next: Day 4 - Sorting Data with ORDER BY](./day4.md) 🔽
+[Previous: Day 2 - CREATE Statement and Basic SELECT](../Day-2%20Basic%20SELECT%20Statements/Day-2_Basic_SELECT_Statements.md) 🔼\
+[Next: Day 4 - Sorting Data with ORDER BY](../Day-4%20Sorting%20Data%20with%20ORDER%20BY/Day-4_Sorting_Data_with_ORDER_BY.md) 🔽
 
