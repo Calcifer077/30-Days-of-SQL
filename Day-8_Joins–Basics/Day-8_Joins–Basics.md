@@ -6,12 +6,12 @@ Welcome to Day 8 of the 30-Day SQL Challenge! Today, we’ll dive into the fasci
 
 ## Table of Contents 🔍
 
-1. [What Are Joins?](#what-are-joins)
-2. [Types of Joins](#types-of-joins)
-3. [Syntax of Joins](#syntax-of-joins)
-4. [Examples of Joins](#examples-of-joins)
-5. [Practice Exercises](#practice-exercises)
-6. [Summary](#summary)
+1. [What Are Joins?](#what-are-joins-)
+2. [Types of Joins](#types-of-joins-)
+3. [Syntax of Joins](#syntax-of-joins-)
+4. [Examples of Joins](#examples-of-joins-)
+5. [Practice Exercises](#practice-exercises-)
+6. [Summary](#summary-)
 
 ---
 
@@ -202,6 +202,6 @@ Tomorrow, we’ll explore **Advanced Joins** to build on today’s foundation. S
 
 ---
 
-[Previous: Day 7 - SQL Practice and Quiz](./day7.md) 🔼\
+[Previous: Day 7 - SQL Practice and Quiz](./Day-7%20SQL%20Practice%20and%20Quiz/Day-7_SQL_Practice_and_Quiz.md) 🔼\
 [Next: Day 9 - Advanced Joins](./day9.md) 🔽
 
