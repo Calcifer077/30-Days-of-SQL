@@ -6,12 +6,12 @@ Welcome to Day 6 of the 30-Day SQL Challenge! Today, we will explore the `HAVING
 
 ## Table of Contents 📖
 
-1. [What is the HAVING Clause?](#what-is-the-having-clause)
-2. [Syntax of HAVING](#syntax-of-having)
-3. [Difference Between WHERE and HAVING](#difference-between-where-and-having)
-4. [Examples of HAVING](#examples-of-having)
-5. [Practice Exercises](#practice-exercises)
-6. [Summary](#summary)
+1. [What is the HAVING Clause?](#what-is-the-having-clause-)
+2. [Syntax of HAVING](#syntax-of-having-)
+3. [Difference Between WHERE and HAVING](#difference-between-where-and-having-)
+4. [Examples of HAVING](#examples-of-having-)
+5. [Practice Exercises](#practice-exercises-)
+6. [Summary](#summary-)
 
 ---
 
@@ -34,7 +34,7 @@ HAVING condition;
 
 ---
 
-### Difference Between WHERE and HAVING ⚙️
+### Difference Between WHERE and HAVING ⚙
 
 | **Aspect**       | **WHERE Clause**                                   | **HAVING Clause**                               |
 |------------------|--------------------------------------------------|------------------------------------------------|
@@ -164,6 +164,6 @@ Tomorrow, we’ll test your knowledge with a **Practice and Quiz Day**! Get read
 
 ---
 
-[Previous: Day 5 - Aggregate Functions and GROUP BY](./day5.md) 🔼\
-[Next: Day 7 - SQL Practice and Quiz](./day7.md) 🔽
+[Previous: Day 5 - Aggregate Functions and GROUP BY](../Day-5%20Aggregate%20Functions%20and%20GROUP%20BY/Day-5_Aggregate_Functions_and_GROUP_BY.md) 🔼\
+[Next: Day 7 - SQL Practice and Quiz](../Day-7%20SQL%20Practice%20and%20Quiz/Day-7_SQL_Practice_and_Quiz.md) 🔽
 
