@@ -226,6 +226,6 @@ Tomorrow, we’ll cover **Subqueries**. Stay tuned for more SQL fun! 🚀
 
 ---
 
-[Previous: Day 8 - Joins Basics](../main/Day-8_Joins–Basics/Day-8_Joins–Basics.md) 🔼  \
+[Previous: Day 8 - Joins Basics](../Day-8_Joins–Basics/Day-8_Joins–Basics.md) 🔼  \
 [Next: Day 10 - Subqueries](../Day-10_Subqueries/Day-10_Subqueries.md) 🔽
 
