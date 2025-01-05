@@ -6,14 +6,14 @@ Welcome to Day 9 of the 30-Day SQL Challenge! Today, we’ll dive deeper into th
 
 ## Table of Contents 📖
 
-1. [What Are Advanced Joins?](#what-are-advanced-joins)
-2. [Self Join](#self-join)
-3. [Full Outer Join](#full-outer-join)
-4. [Cross Join](#cross-join)
-5. [Using Joins with Aggregates](#using-joins-with-aggregates)
-6. [Advanced Join Examples](#advanced-join-examples)
-7. [Practice Exercises](#practice-exercises)
-8. [Summary](#summary)
+1. [What Are Advanced Joins?](#what-are-advanced-joins-)
+2. [Self Join](#self-join-)
+3. [Full Outer Join](#full-outer-join-)
+4. [Cross Join](#cross-join-)
+5. [Using Joins with Aggregates](#using-joins-with-aggregates-)
+6. [Advanced Join Examples](#advanced-join-examples-)
+7. [Practice Exercises](#practice-exercises-)
+8. [Summary](#summary-)
 
 ---
 
@@ -23,7 +23,7 @@ Advanced joins build upon the basic join concepts by introducing more complex te
 
 ---
 
-### Self Join ✍️
+### Self Join ✍
 
 A self join is a regular join where a table is joined with itself. This is useful for comparing rows within the same table.
 
@@ -227,5 +227,5 @@ Tomorrow, we’ll cover **Subqueries**. Stay tuned for more SQL fun! 🚀
 ---
 
 [Previous: Day 8 - Joins Basics](../Day-8_Joins–Basics/Day-8_Joins–Basics.md) 🔼  \
-[Next: Day 10 - Subqueries](../Day-10_Subqueries/Day-10_Subqueries.md) 🔽
+[Next: Day 10 - Subqueries](../Day-10%20Subqueries%20in%20SQL/Day-10_Subqueries_in_SQL.md) 🔽
 
