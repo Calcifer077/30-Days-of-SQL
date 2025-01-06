@@ -6,13 +6,13 @@ Welcome to Day 10 of the 30-Day SQL Challenge! Today, we’ll dive into **subque
 
 ## Table of Contents 🔖
 
-1. [What is a Subquery?](#what-is-a-subquery)
-2. [Types of Subqueries](#types-of-subqueries)
-3. [Subquery Syntax](#subquery-syntax)
-4. [Examples of Subqueries](#examples-of-subqueries)
-5. [Subqueries vs. Joins](#subqueries-vs-joins)
-6. [Practice Exercises](#practice-exercises)
-7. [Summary](#summary)
+1. [What is a Subquery?](#what-is-a-subquery-)
+2. [Types of Subqueries](#types-of-subqueries-%EF%B8%8F)
+3. [Subquery Syntax](#subquery-syntax-)
+4. [Examples of Subqueries](#examples-of-subqueries-)
+5. [Subqueries vs. Joins](#subqueries-vs-joins-%EF%B8%8F)
+6. [Practice Exercises](#practice-exercises-)
+7. [Summary](#summary-)
 
 ---
 
