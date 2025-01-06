@@ -6,15 +6,15 @@ Welcome to Day 11 of the 30 Days of SQL Challenge! Today, we delve into **Set Op
 
 ## Table of Contents 📖
 
-1. [What are Set Operations?](#what-are-set-operations)
-2. [Types of Set Operations](#types-of-set-operations)
-   - [UNION](#union)
-   - [UNION ALL](#union-all)
-   - [INTERSECT](#intersect)
-   - [EXCEPT (MINUS)](#except-minus)
-3. [Examples of Set Operations](#examples-of-set-operations)
-4. [Practice Exercises](#practice-exercises)
-5. [Summary](#summary)
+1. [What are Set Operations?](#what-are-set-operations-)
+2. [Types of Set Operations](#types-of-set-operations-)
+   - [UNION](#1-union)
+   - [UNION ALL](#2-union-all)
+   - [INTERSECT](#3-intersect)
+   - [EXCEPT (MINUS)](#4-except-or-minus-in-some-systems)
+3. [Examples of Set Operations](#examples-of-set-operations-)
+4. [Practice Exercises](#practice-exercises-)
+5. [Summary](#summary-)
 
 ---
 
@@ -30,7 +30,7 @@ Set operations allow you to combine results from two or more `SELECT` statements
 
 ---
 
-## Types of Set Operations 🛠️
+## Types of Set Operations 🛠
 
 ### 1. UNION
 
