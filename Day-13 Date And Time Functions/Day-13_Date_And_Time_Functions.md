@@ -6,11 +6,11 @@ Welcome to Day 13 of the 30-Day SQL Challenge! Today, we dive into one of the mo
 
 ## Table of Contents 📖
 
-1. [What are Date and Time Functions?](#what-are-date-and-time-functions)
-2. [Commonly Used Date and Time Functions](#commonly-used-date-and-time-functions)
-3. [Examples of Date and Time Functions](#examples-of-date-and-time-functions)
-4. [Practice Exercises](#practice-exercises)
-5. [Summary](#summary)
+1. [What are Date and Time Functions?](#what-are-date-and-time-functions-)
+2. [Commonly Used Date and Time Functions](#commonly-used-date-and-time-functions-)
+3. [Examples of Date and Time Functions](#examples-of-date-and-time-functions-)
+4. [Practice Exercises](#practice-exercises-)
+5. [Summary](#summary-)
 
 ---
 
@@ -111,7 +111,7 @@ SELECT DATE_FORMAT('2024-12-28', '%W, %M %d, %Y') AS formatted_date;
 
 ---
 
-### Practice Exercises ⚖️
+### Practice Exercises ⚖
 
 1. Write a query to find the day of the week for the date `2024-12-25`.
 2. Calculate the number of days between your birthday and today.
