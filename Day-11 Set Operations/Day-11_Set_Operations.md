@@ -162,7 +162,7 @@ SELECT name FROM department_b;
 
 ---
 
-## Practice Exercises 🔧
+### Practice Exercises 🔧
 
 1. Given `orders_2023` and `orders_2024`, find all unique customers who placed orders in either year.
 2. Find customers who placed orders in both `orders_2023` and `orders_2024`.
@@ -172,7 +172,7 @@ SELECT name FROM department_b;
 
 ---
 
-## Summary 🏁
+### Summary 🏁
 
 Today, you learned about:
 
@@ -185,5 +185,5 @@ Tomorrow, we’ll dive into **String Functions** — an exciting topic to manipu
 ---
 
 [Previous: Day 10 - Subqueries in SQL](../Day-10%20Subqueries%20in%20SQL/Day-10_Subqueries_in_SQL.md) 🔼  
-[Next: Day 12 - String Functions in SQL](../Day-12%20String%20Functions%20in%20SQL/Day-12_String_Functions_in_SQL.md) 🔽
+[Next: Day 12 - String Functions in SQL](../Day-12%20String%20Functions/Day-12_String_Functions.md) 🔽
 
