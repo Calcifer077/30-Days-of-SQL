@@ -135,5 +135,5 @@ Tomorrow, we’ll explore **Intermediate Practice and Quiz** to consolidate our 
 
 [Previous: Day 12 - String Functions](../Day-12%20String%20Functions/Day-12_String_Functions.md) 🔼
 
-[Next: Day 14 - Intermediate Practice and Quiz](../Day-14%20Intermediate%20Practice%20and%20Quiz/Day-14_Intermediate_Practice_and_Quiz.md) 🔽
+[Next: Day 14 - Intermediate Practice and Quiz](../Day-14%20Intermediate%20Sql%20Practice%20Quiz/Day-14_Intermediate_Sql_Practice_Quiz.md) 🔽
 
