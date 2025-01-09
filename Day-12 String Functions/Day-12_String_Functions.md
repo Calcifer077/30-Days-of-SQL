@@ -230,5 +230,5 @@ Tomorrow, we’ll move on to **Date and Time Functions**! Stay tuned! 🚀
 ---
 
 [Previous: Day 11 - Set Operations in SQL](../Day-11%20Set%20Operations/Day-11_Set_Operations.md) 🔼\
-[Next: Day 13 - Date and Time Functions](../Day-13_Date-and-Time-Functions/Day-13_Date-and-Time-Functions.md) 🔽
+[Next: Day 13 - Date and Time Functions](../Day-13%20Date%20And%20Time%20Functions/Day-13_Date_And_Time_Functions.md) 🔽
 
