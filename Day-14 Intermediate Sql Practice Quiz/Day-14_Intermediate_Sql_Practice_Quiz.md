@@ -104,7 +104,7 @@ HAVING COUNT(order_id) > 3 AND SUM(order_total) > 5000;
 
 ---
 
-### Quiz Questions 🕵️‍♂
+### Quiz Questions 🕵
 
 Test your understanding with these questions:
 
@@ -171,6 +171,6 @@ HAVING SUM(sales_amount) > 15000;
 
 Today, you practiced intermediate SQL concepts and tested your understanding with quizzes. These exercises are designed to reinforce your skills and prepare you for more advanced topics. Keep up the great work! 🏋️‍♂️
 
-[Previous: Day 13 - Date and Time Functions](./Day-13%20Date%20And%20Time%20Functions/Day-13_Date_And_Time_Functions.md) 🔼  
-[Next: Day 15 - Advanced Aggregate Functions](./Day-15%20Advanced%20Aggregate%20Functions/Day-15_Advanced_Aggregate_Functions.md) 🔽
+[Previous: Day 13 - Date and Time Functions](../Day-13%20Date%20And%20Time%20Functions/Day-13_Date_And_Time_Functions.md) 🔼  
+[Next: Day 15 - Advanced Aggregate Functions](../Day-15%20Advanced%20Aggregate%20Functions/Day-15_Advanced_Aggregate_Functions.md) 🔽
 
