@@ -173,5 +173,5 @@ Subqueries are a key component of advanced SQL, and mastering them will greatly 
 ---
 
 [Previous: Day 9 - Advanced Joins](../Day-9_Advanced_Joins/Day-9_Advanced_Joins.md) 👆\
-[Next: Day 11 - Set Operations](../Day-11_Set-Operations/Day-11_Set-Operations.md) 👇
+[Next: Day 11 - Set Operations](../Day-11%20Set%20Operations/Day-11_Set_Operations.md) 👇
 
