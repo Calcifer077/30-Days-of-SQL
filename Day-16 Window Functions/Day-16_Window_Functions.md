@@ -4,19 +4,22 @@ Welcome to Day 16 of the 30 Days of SQL challenge! 🎉 Today, we’ll explore W
 
 ---
 
-### Table of Contents
-- [🔍 Overview](#overview)
-- [📘 Key Window Functions](#key-window-functions)
-- [💡 Practical Examples](#practical-examples)
-  - [ROW_NUMBER](#row_number)
-  - [RANK and DENSE_RANK](#rank-and-dense_rank)
-  - [NTILE](#ntile)
-  - [LEAD and LAG](#lead-and-lag)
-  - [FIRST_VALUE and LAST_VALUE](#first_value-and-last_value)
-- [🔧 Best Practices](#best-practices)
-- [🎯 Hands-On Challenge](#hands-on-challenge)
-- [💻 Exercises - Day 16](#exercises-day-16)
-- [📝 Day 16 Summary](#day-16-summary)
+## Table of Contents
+
+- [🔍 Overview](#-overview)
+- [📘 Key Window Functions](#-key-window-functions)
+  - [1. ROW_NUMBER](#1-row_number)
+  - [2. RANK and DENSE_RANK](#2-rank-and-dense_rank)
+  - [3. NTILE](#3-ntile)
+  - [4. LEAD and LAG](#4-lead-and-lag)
+  - [5. FIRST_VALUE and LAST_VALUE](#5-first_value-and-last_value)
+  - [6. OVER Clause](#6-over-clause)
+- [💡 Practical Examples](#-practical-examples)
+- [🔧 Best Practices](#-best-practices)
+- [🎯 Hands-On Challenge](#-hands-on-challenge)
+- [💻 Exercises - Day 16](#-exercises---day-16) <!-- Corrected anchor -->
+- [📝 Day 16 Summary](#-day-16-summary)
+
 
 ---
 
@@ -111,6 +114,20 @@ SELECT employee_id, department_id, salary,
 FROM employees;
 ```
 
+#### 6. OVER Clause
+The `OVER` clause defines the window or set of rows that the window function operates on. It can include the following components:
+
+1. **PARTITION BY**: Divides the result set into partitions.
+2. **ORDER BY**: Specifies the order of rows within each partition.
+3. **ROWS or RANGE**: Defines the frame of rows for calculations.
+
+```sql
+SELECT employee_id, salary,
+       SUM(salary) OVER (PARTITION BY department_id ORDER BY salary) AS cumulative_salary
+FROM employees;
+
+```
+
 ---
 
 ### 🔧 Best Practices
@@ -131,7 +148,7 @@ FROM employees;
 
 ---
 
-### 💻 Exercises - Day 16
+## 💻 Exercises - Day 16
 
 #### ✅ Exercise: Level 1
 1. Write a query to assign row numbers to students in each class based on their grades.
