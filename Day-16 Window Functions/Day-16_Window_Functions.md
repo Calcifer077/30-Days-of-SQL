@@ -169,7 +169,7 @@ Stay tuned for Day 17, where we’ll explore Common Table Expressions (CTEs) in 
 
 ---
 
-Previous: [Day 15 - Advanced Aggregate Functions](../Day-15%20%20Advanced%20Aggregate%20Functions/Day-15_Advanced_Aggregate_Functions.md) 🔼
+[Previous: Day 15 - Advanced Aggregate Functions](../Day-15%20%20Advanced%20Aggregate%20Functions/Day-15_Advanced_Aggregate_Functions.md) 🔼
 
-Next: [Day 17 - Common Table Expressions (CTEs)](../Day-17%20Common%20Table%20Expressions/Day-17_Common_Table_Expressions.md) 🔽
+[Next: Day 17 - Common Table Expressions (CTEs)](../Day-17%20Common%20Table%20Expressions/Day-17_Common_Table_Expressions.md) 🔽
 
