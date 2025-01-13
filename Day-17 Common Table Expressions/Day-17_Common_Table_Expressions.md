@@ -6,15 +6,16 @@ Welcome to Day 17 of the 30 Days of SQL challenge! 🎉 Today, we dive into Comm
 
 ### Table of Contents
 
-- 🔍 Overview
-- 📘 Syntax and Components
-  1. WITH Clause Basics
-  2. Recursive CTEs
-- 💡 Practical Examples
-- 🔧 Best Practices
-- 🎯 Hands-On Challenge
-- 💻 Exercises - Day 17
-- 📝 Day 17 Summary
+- [🔍 Overview](#-overview)
+- [📘 Syntax and Components](#-syntax-and-components)
+  - [1. WITH Clause Basics](#1-with-clause-basics)
+  - [2. Recursive CTEs](#2-recursive-ctes)
+- [💡 Practical Examples](#-practical-examples)
+- [🔧 Best Practices](#-best-practices)
+- [🎯 Hands-On Challenge](#-hands-on-challenge)
+- [💻 Exercises - Day 17](#-exercises---day-17)
+- [📝 Day 17 Summary](#-day-17-summary)
+
 
 ---
 
