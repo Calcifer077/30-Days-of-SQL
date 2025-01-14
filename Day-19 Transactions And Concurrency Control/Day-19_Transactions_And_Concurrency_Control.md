@@ -8,8 +8,8 @@ Welcome to Day 19 of the 30 Days of SQL challenge! 🎉 Today, we explore transa
 
 - [🔍 Overview](#-overview)
 - [📘 Transactions](#-transactions)
-  - [1. Properties (ACID)](#1-properties-acid)
-  - [2. Commands (BEGIN, COMMIT, ROLLBACK, SAVEPOINT)](#2-commands-begin-commit-rollback-savepoint)
+  - [1. Properties of Transactions (ACID)](#1-properties-of-transactions-acid)
+  - [2. Transaction Commands](#2-transaction-commands)
 - [💡 Concurrency Control](#-concurrency-control)
   - [1. Isolation Levels](#1-isolation-levels)
   - [2. Locking Mechanisms](#2-locking-mechanisms)
@@ -132,7 +132,7 @@ Today, we covered transactions and concurrency control, exploring their role in 
 Stay tuned for Day 20, where we’ll tackle Advanced SQL Practice and Quizzes! 🚀
 
 ---
-⬆️ Previous: [Day 18 - Indexes and Query Optimization](../Day-18_Indexes_and_Optimization/Day-18_Indexes_and_Optimization.md)  
-⬇️ Next: [Day 20 - Advanced SQL Practice and Quiz](../Day-20_Advanced_SQL_Practice/Day-20_Advanced_SQL_Practice.md)
+⬆️ Previous: [Day 18 - Indexes and Query Optimization](../Day-18%20Indexes%20and%20Optimization/Day-18_Indexes_and_Optimization.md)  
+⬇️ Next: [Day 20 - Advanced SQL Practice and Quiz](../Day-20%20Advanced%20SQL%20Practice/Day-20_Advanced_SQL_Practice.md)
 
 ---
