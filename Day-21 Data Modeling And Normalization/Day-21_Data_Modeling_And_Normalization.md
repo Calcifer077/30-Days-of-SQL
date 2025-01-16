@@ -6,20 +6,20 @@ Welcome to **Day 21** of the **30 Days of SQL** challenge! 🎉 Today, we’ll f
 
 ## Table of Contents
 
-- [🔍 Overview](#overview)
-- [📈 Data Modeling Basics](#data-modeling-basics)
+- [🔍 Overview](#-overview)
+- [📈 Data Modeling Basics](#-data-modeling-basics)
   - [1. Conceptual Model](#1-conceptual-model)
   - [2. Logical Model](#2-logical-model)
   - [3. Physical Model](#3-physical-model)
-- [🔄 Normalization Principles](#normalization-principles)
+- [🔄 Normalization Principles](#-normalization-principles)
   - [1. First Normal Form (1NF)](#1-first-normal-form-1nf)
   - [2. Second Normal Form (2NF)](#2-second-normal-form-2nf)
   - [3. Third Normal Form (3NF)](#3-third-normal-form-3nf)
   - [4. Boyce-Codd Normal Form (BCNF)](#4-boyce-codd-normal-form-bcnf)
-- [🔧 Best Practices](#best-practices)
-- [🎨 Hands-On Challenge](#hands-on-challenge)
-- [💻 Exercises - Day 21](#exercises---day-21)
-- [🖋️ Day 21 Summary](#day-21-summary)
+- [🔧 Best Practices](#-best-practices)
+- [🎨 Hands-On Challenge](#-hands-on-challenge)
+- [💻 Exercises - Day 21](#-exercises---day-21)
+- [🖋️ Day 21 Summary](#-day-21-summary)
 
 ---
 
@@ -218,7 +218,7 @@ BCNF Table:
 
 ---
 
-## 🖋️ Day 21 Summary
+## 🖋 Day 21 Summary
 
 Today, you learned about **data modeling** and **normalization**, key techniques for designing efficient and scalable databases. Practice these principles to build robust and high-performing databases.
 
