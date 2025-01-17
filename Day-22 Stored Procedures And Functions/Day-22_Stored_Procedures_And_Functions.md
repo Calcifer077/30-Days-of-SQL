@@ -151,7 +151,7 @@ SELECT CalculateBonus(salary, 15.0) AS annual_bonus FROM employees;
 
 ---
 
-## 🖋️ Day 22 Summary
+## 🖋 Day 22 Summary
 
 Today, you learned how to:
 
