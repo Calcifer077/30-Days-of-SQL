@@ -169,6 +169,6 @@ Today, you learned about **Triggers** and **Events** in SQL, two powerful mechan
 
 Stay tuned for **Day 24**, where we’ll dive into **Data Import and Export**! 🚀
 
-[Previous: Day 22 - Stored Procedures and Functions](../Day-22%20Stored%20Procedures%20and%20Functions/Day-22_Stored_Procedures_and_Functions.md) 🔼  
+[Previous: Day 22 - Stored Procedures and Functions](../Day-22%20Stored%20Procedures%20And%20Functions/Day-22_Stored_Procedures_And_Functions.md) 🔼  
 [Next: Day 24 - Data Import and Export](../Day-24%20Data%20Import%20and%20Export/Day-24_Data_Import_and_Export.md) 🔽
 
