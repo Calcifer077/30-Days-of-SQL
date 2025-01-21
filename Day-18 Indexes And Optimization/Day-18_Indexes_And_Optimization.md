@@ -101,7 +101,7 @@ WHERE order_date > '2024-01-01';
 
 #### 2. Avoiding Common Pitfalls
 
-- **Avoid SELECT ***: Specify only required columns.
+- **Avoid SELECT**: Specify only required columns.
 - **Index Usage**: Ensure indexes are used for filtering and joining.
 - **Avoid Functions on Indexed Columns**:
 
@@ -181,7 +181,7 @@ ON orders.customer_id = US_Customers.customer_id;
 
 ---
 
-### 🗳️ Day 18 Summary
+### 🗳 Day 18 Summary
 
 Today, we explored the importance of indexes and query optimization. By understanding different types of indexes and applying best practices, you can significantly improve query performance. Stay tuned for Day 19, where we’ll dive into Transactions and Concurrency Control! 🚀
 
