@@ -150,6 +150,6 @@ Today, you applied your SQL knowledge to a real-world project involving data ana
 
 Up next, **Day 29: Final Revision**, where we’ll review everything we’ve covered in the past 28 days. 🚀
 
-[Previous: Day 27 - SQL Security](../Day-27%20SQL%20Security/Day-27_SQL_Security.md)  
+[Previous: Day 27 - SQL Security](../Day-27%20Sql%20Security/Day-27_Sql_Security.md)  
 [Next: Day 29 - Final Revision](../Day-29%20Final%20Revision/Day-29_Final_Revision.md)
 
