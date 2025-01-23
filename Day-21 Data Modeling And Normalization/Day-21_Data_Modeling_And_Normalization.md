@@ -224,6 +224,6 @@ Today, you learned about **data modeling** and **normalization**, key techniques
 
 Stay tuned for **Day 22**, where we’ll dive into **Stored Procedures and Functions**! 🚀
 
-[Previous: Day 20 - Advanced SQL Practice and Quiz](../Day-20%20Advanced%20SQL%20Practice%20And%20Quiz/Day-20_Advanced_SQL_Practice_And_Quiz.md) 🔼  
+[Previous: Day 20 - Advanced SQL Practice and Quiz](../Day-20%20Sql%20Practice%20Quiz/Day-20_Sql_Practice_Quiz.md) 🔼  
 [Next: Day 22 - Stored Procedures and Functions](../Day-22%20Stored%20Procedures%20And%20Functions/Day-22_Stored_Procedures_And_Functions.md) 🔽
 
