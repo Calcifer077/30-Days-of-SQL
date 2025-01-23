@@ -158,7 +158,7 @@ GROUP BY order_month;
 
 ---
 
-## 🛠️ Best Practices
+## 🛠 Best Practices
 
 - **Optimize Queries**: Use indexes for large datasets and avoid unnecessary computations.
 - **Understand Data Granularity**: Align your queries with the granularity of the data (e.g., daily, monthly).
@@ -198,6 +198,6 @@ Today, we explored **SQL for Analytics**, a critical skill for deriving insights
 
 Stay tuned for **Day 26**, where we’ll dive into **Error Handling and Debugging** in SQL! 🚀
 
-[Previous: Day 24 - Data Import and Export](../Day-24%20Data%20Import%20and%20Export/Day-24_Data_Import_and_Export.md) 🏚️  
-[Next: Day 26 - Error Handling and Debugging](../Day-26%20Error%20Handling%20and%20Debugging/Day-26_Error_Handling_and_Debugging.md) 🔄
+[Previous: Day 24 - Data Import and Export](../Day-24%20Data%20Import%20And%20Export/Day-24_Data_Import_And_Export.md) 🏚️  
+[Next: Day 26 - Error Handling and Debugging](../Day-26%20Error%20Handling%20Debugging/Day-26_Error_Handling_Debugging.md) 🔄
 
