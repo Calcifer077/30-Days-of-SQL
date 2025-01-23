@@ -171,6 +171,6 @@ cursor.execute("SELECT * FROM users WHERE username = %s", (username,))
 
 Today, we covered essential topics in **SQL Security**, including authentication, authorization, encryption, and protection against SQL injection. These practices ensure the integrity and safety of your database. Tomorrow, we will wrap up the challenge with **Building a Real-World Project**! 🎉
 
-[Previous: Day 26 - Error Handling and Debugging](../Day-26%20Error%20Handling%20And%20Debugging/Day-26_Error_Handling_And_Debugging.md) 🔼  
+[Previous: Day 26 - Error Handling and Debugging](../Day-26%20Error%20Handling%20Debugging/Day-26_Error_Handling_Debugging.md) 🔼  
 [Next: Day 28 - Building a Real-World Project](../Day-28%20Building%20a%20Real-World%20Project/Day-28_Building_a_Real-World_Project.md) 🔽
 
