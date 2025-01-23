@@ -15,7 +15,7 @@ Welcome to **Day 24** of the **30 Days of SQL** challenge! 🎉 Today, we’ll f
   - [CSV Files](#csv-files)
   - [JSON Files](#json-files)
   - [SQL Dumps](#sql-dumps)
-- [⚙️ Best Practices](#⚙️-best-practices)
+- [⚙ Best Practices](#-best-practices)
 - [🎯 Hands-On Challenge](#-hands-on-challenge)
 - [💻 Exercises - Day 24](#-exercises---day-24)
 - [🖋️ Day 24 Summary](#-day-24-summary)
@@ -149,7 +149,7 @@ psql -U username -d database_name -f backup.sql
 
 ---
 
-## ⚙️ Best Practices
+## ⚙ Best Practices
 
 1. **Validate Data**: Ensure data matches the table structure before importing.
 2. **Backup Before Import**: Always back up the database to avoid accidental overwrites.
@@ -183,12 +183,12 @@ psql -U username -d database_name -f backup.sql
 
 ---
 
-## 🖋️ Day 24 Summary
+## 🖋 Day 24 Summary
 
 Today, you learned how to import and export data in SQL, covering tools, techniques, and formats like CSV, JSON, and SQL dumps. These skills are crucial for data migration, backups, and integrations.
 
 Stay tuned for **Day 25**, where we’ll explore **SQL for Analytics**! 🚀
 
 [Previous: Day 23 - Triggers and Events](../Day-23%20Triggers%20And%20Events/Day-23_Triggers_And_Events.md) 🔼  
-[Next: Day 25 - SQL for Analytics](../Day-25%20SQL%20For%20Analytics/Day-25_SQL_For_Analytics.md) 🔽
+[Next: Day 25 - SQL for Analytics](../Day-25%20Sql%20For%20Analytics/Day-25_Sql_For_Analytics.md) 🔽
 
