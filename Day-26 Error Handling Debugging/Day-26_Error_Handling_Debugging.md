@@ -175,6 +175,5 @@ Today, you learned how to handle errors and debug SQL code effectively. These sk
 
 In **Day 27**, we’ll explore **SQL Security**, including user roles, permissions, and best practices for securing your database. Stay tuned! 🚀
 
-[Previous: Day 25 - SQL for Analytics](../Day-25%20SQL%20For%20Analytics/Day-25_SQL_For_Analytics.md) 🔼  
-[Next: Day 27 - SQL Security](../Day-27%20SQL%20Security/Day-27_SQL_Security.md) 🔽
-
+[Previous: Day 25 - SQL for Analytics](../Day-25%20Sql%20For%20Analytics/Day-25_Sql_For_Analytics.md) 🔼  
+[Next: Day 27 - SQL Security](../Day-27%20Sql%20Security/Day-27_Sql_Security.md) 🔽
