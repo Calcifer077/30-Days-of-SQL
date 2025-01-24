@@ -6,17 +6,17 @@ Welcome to **Day 29** of the **30 Days of SQL** challenge! 🎉 Today is all abo
 
 ## Table of Contents
 
-- [🔍 Overview](#🔍-overview)
-- [🔄 Recap of Topics](#🔄-recap-of-topics)
+- [🔍 Overview](#-overview)
+- [🔄 Recap of Topics](#-recap-of-topics)
   - [Day 1 to 7: SQL Basics](#day-1-to-7-sql-basics)
   - [Day 8 to 14: Intermediate Topics](#day-8-to-14-intermediate-topics)
   - [Day 15 to 21: Advanced SQL Concepts](#day-15-to-21-advanced-sql-concepts)
   - [Day 22 to 28: Real-World Applications](#day-22-to-28-real-world-applications)
-- [🔧 Hands-On Practice](#🔧-hands-on-practice)
-- [🕵️ Tips for the Final Assessment](#🕵%ef%b8%8f-tips-for-the-final-assessment)
-- [🖋️ Revision Checklist](#🖋%ef%b8%8f-revision-checklist)
-- [🔬 Practice Exercises](#🔬-practice-exercises)
-- [📊 Day 29 Summary](#📊-day-29-summary)
+- [🔧 Hands-On Practice](#-hands-on-practice)
+- [🕵️ Tips for the Final Assessment](#-tips-for-the-final-assessment)
+- [🖋️ Revision Checklist](#-revision-checklist)
+- [🔬 Practice Exercises](#-practice-exercises)
+- [📊 Day 29 Summary](#-day-29-summary)
 
 ---
 
@@ -131,7 +131,7 @@ The revision day is crucial to solidify your knowledge, identify gaps, and build
 
 ---
 
-## 🕵️ Tips for the Final Assessment
+## 🕵 Tips for the Final Assessment
 
 1. **Understand the Question**: Read the problem statement carefully.
 2. **Plan the Query**: Break down the problem into smaller parts.
@@ -141,7 +141,7 @@ The revision day is crucial to solidify your knowledge, identify gaps, and build
 
 ---
 
-## 🖋️ Revision Checklist
+## 🖋 Revision Checklist
 
 - [ ] Can you create and manipulate tables effectively?
 - [ ] Do you understand all types of joins?
