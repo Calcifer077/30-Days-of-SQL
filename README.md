@@ -14,7 +14,6 @@
 
 
 
-
 # 30 Days Of SQL: Day 1 - Introduction
 
 Welcome to **Day 1** of your SQL learning journey! Today, we'll cover the basics, setting the foundation for understanding Structured Query Language (SQL). By the end of this session, you’ll have a clear idea of what SQL is and why it's so crucial in modern data management.
