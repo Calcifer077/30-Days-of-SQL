@@ -264,6 +264,8 @@ Today’s focus is understanding:
 - Relational databases organize data into tables with rows and columns.
 - Understanding SQL opens doors to numerous career opportunities.
 
+- test
+
 
 ## 🔗 Additional Resources
 
